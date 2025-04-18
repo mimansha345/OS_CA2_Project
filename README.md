@@ -36,7 +36,15 @@ Make sure you have Python 3 installed. Then install the required packages:
 ```bash
 pip install flask psutil
 
-![Screenshot 2025-04-17 193451](https://github.com/user-attachments/assets/8225c6c3-d92d-4e74-b3f2-5779afdce154)
+## 📸 Screenshots
+
+### 🔹 Dashboard View
+![Screenshot 2025-04-17 193451](https://github.com/user-attachments/assets/96844427-eca9-466a-9e09-6ef841a78437)
+
+
+### 🔹 Live CPU Usage Chart
+![Screenshot 2025-04-17 194901](https://github.com/user-attachments/assets/9b9d6cc0-cb7e-42b0-9493-ce2fa9c50644)
+
 
 
 
